@@ -8,4 +8,9 @@ https://start.spring.io/actuator/info
 https://tool.lu/
 
 使用版本
-https://github.com/luoweian/SpringCloudLearning/blob/main/IMG/image-20210418172026367.png
+
+boot: 2.2.2.R
+cloud alibaba 2.1.0.R
+Java 8
+Maven 3.5及以上
+Mysql 5.7及以上
